@@ -23,3 +23,4 @@ Uses a version, salt and nonce, to protect the encrypted data. No data that is e
 - Important !!: Do not delete the file: file.txt. In case of any deleting please make sure you create it again.
 
 //
+//
