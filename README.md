@@ -2,6 +2,8 @@
 
 Text Encryption and DE Encryption using NODE.JS
 
+Uses a version, salt and nonce, to protect the encrypted data.
+
 ## How to use Crypt
 
 1. And encryption test to file.txt
