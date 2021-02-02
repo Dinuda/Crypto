@@ -14,4 +14,4 @@ Text Encryption and DE Encryption using NODE.JS
 
    node aes.js decrypt ./file.txt.enc `password`
 
-   \*\* The decrypted file will appear as `file.txt.enc.unenc`
+   - The decrypted file will appear as `file.txt.enc.unenc`
