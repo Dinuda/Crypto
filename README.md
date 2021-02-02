@@ -2,7 +2,7 @@
 
 Text Encryption and DE Encryption using NODE.JS
 
-Uses a version, salt and nonce, to protect the encrypted data.
+Uses a version, salt and nonce, to protect the encrypted data. No data that is encrypted in this system is vulnerable.
 
 ## How to use Crypt
 
