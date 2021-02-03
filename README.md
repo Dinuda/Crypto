@@ -10,11 +10,11 @@ Uses a version, salt and nonce, to protect the encrypted data. No data that is e
 
 2. Encrypt
 
-   node aes.js decrypt ./file.txt `password`
+   node aes.js decrypt ./file.txt password
 
 3. Decrypt
 
-   node aes.js decrypt ./file.txt.enc `password`
+   node aes.js decrypt ./file.txt.enc password
 
    - The decrypted file will appear as `file.txt.enc.unenc`
 
